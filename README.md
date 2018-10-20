@@ -50,3 +50,5 @@
     document.querySelector('a[href="/wiki/File:Kobe_Bryant_warming_up.jpg"] img').style.height = 'auto'
     document.querySelector('a[href="/wiki/File:Kobe_Bryant_warming_up.jpg"] img').style.width = 'auto'
     ```
+- Where did the picture come from?
+  - [My Picture](https://avatars0.githubusercontent.com/u/37995847)
